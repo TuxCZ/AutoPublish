@@ -1,0 +1,10 @@
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\AutoPublish.Server.exe
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\AutoPublish.Server.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\AutoPublish.Server.deps.json
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\AutoPublish.Server.runtimeconfig.json
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\AutoPublish.Server.pdb
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Server\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll

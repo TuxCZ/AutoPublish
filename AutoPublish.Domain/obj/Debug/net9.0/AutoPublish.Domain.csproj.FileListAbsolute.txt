@@ -1,0 +1,15 @@
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\bin\Debug\net9.0\AutoPublish.Domain.deps.json
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\bin\Debug\net9.0\AutoPublish.Domain.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\bin\Debug\net9.0\AutoPublish.Domain.pdb
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPublish.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPublish.Domain.AssemblyInfoInputs.cache
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPublish.Domain.AssemblyInfo.cs
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPublish.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPublish.Domain.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\refint\AutoPublish.Domain.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPublish.Domain.pdb
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\ref\AutoPublish.Domain.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\bin\Debug\net9.0\AutoPublish.Common.dll
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\bin\Debug\net9.0\AutoPublish.Common.pdb
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPublish.Domain.csproj.AssemblyReference.cache
+D:\Projects\Websites\AutoPublish\AutoPublish.Domain\obj\Debug\net9.0\AutoPubl.8CAE941C.Up2Date

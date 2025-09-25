@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AutoPublish.Application/1.0.0": {
+        "dependencies": {
+          "AutoPublish.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AutoPublish.Application.dll": {}
+        }
+      },
+      "AutoPublish.Common/1.0.0": {
+        "runtime": {
+          "AutoPublish.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AutoPublish.Domain/1.0.0": {
+        "dependencies": {
+          "AutoPublish.Common": "1.0.0"
+        },
+        "runtime": {
+          "AutoPublish.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoPublish.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoPublish.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoPublish.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

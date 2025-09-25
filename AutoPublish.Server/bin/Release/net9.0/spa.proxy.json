@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:63123",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Projects\\Websites\\AutoPublish\\AutoPublish.Server\\..\\autopublish.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

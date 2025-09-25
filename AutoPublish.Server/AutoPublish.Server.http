@@ -1,0 +1,6 @@
+@AutoPublish.Server_HostAddress = http://localhost:5074
+
+GET {{AutoPublish.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
