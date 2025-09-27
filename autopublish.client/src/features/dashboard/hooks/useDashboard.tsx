@@ -1,5 +1,5 @@
 ﻿import useAPI from "../../../hooks/useAPI";
-import type { PublishStatisticsInfo } from "../../../types";
+import type { PublishStatisticsSummary } from "../../../types";
 import type { JobQueueItem } from "../../../types/Job";
 import type { ProjectActionInfo } from "../../../types/Project";
 import { eJobResult } from "../../../utils/enums/JobEnums";
@@ -7,7 +7,7 @@ import { eJobResult } from "../../../utils/enums/JobEnums";
 export type DashboardDataSource = {
     currentAction?: ProjectActionInfo,
     jobQueue: JobQueueItem[],
-    statistics: PublishStatisticsInfo
+    statistics: PublishStatisticsSummary
 }
 
 const defaultDashboardData: DashboardDataSource = {

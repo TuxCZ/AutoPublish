@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <div className="text-center" style={{ color: "gray" }}>
-            Copyright  &copy; Orise 2025
+            Copyright  &copy; xxx 2025
         </div>
     );
 }

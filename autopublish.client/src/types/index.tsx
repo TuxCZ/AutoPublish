@@ -10,7 +10,7 @@ export interface ActionInfo {
     eta?: string,
 }
 
-export interface PublishStatisticsInfo {
+export interface PublishStatisticsSummary {
     publishStatistics: PublishStatisticsItem[],
     publishDuration: NameValue[],
 }
@@ -24,5 +24,5 @@ export interface PublishStatisticsItem {
 
 export interface NameValue {
     name: string,
-    value: number, 
+    valueInSeconds: number, 
 }

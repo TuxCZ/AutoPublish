@@ -14,9 +14,9 @@ export const StatisticsCard = () => {
     ];
 
     publishDuration = [
-        { name: "Minimální", value: 30 },
-        { name: "Průměr", value: 1800 },
-        { name: "Maximální", value: 20000 },
+        { name: "Minimální", valueInSeconds: 30 },
+        { name: "Průměr", valueInSeconds: 1800 },
+        { name: "Maximální", valueInSeconds: 20000 },
     ];
 
     return (
@@ -47,7 +47,7 @@ export const StatisticsCard = () => {
                 >
                     <CommonSeriesSettings argumentField="name" type="steparea" />
 
-                    <Series argumentField="name" valueField="value" name="Trvání (s)" />
+                    <Series argumentField="name" valueField="valueInSeconds" name="Trvání (s)" />
                 </Chart>
             </div>
         </>

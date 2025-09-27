@@ -13,4 +13,8 @@
     <Folder Include="Projects\Responses\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AutoPublish.Domain\AutoPublish.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

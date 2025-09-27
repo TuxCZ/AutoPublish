@@ -14,7 +14,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="src\api\hooks\" />
-    <Folder Include="src\features\dashboard\components\projectList\" />
     <Folder Include="src\features\log\" />
     <Folder Include="src\features\settings\" />
     <Folder Include="src\features\users\" />

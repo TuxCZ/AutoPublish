@@ -15,7 +15,7 @@ const CenteredActionButton = ({ hideDivider, type, caption, onClick }: CenteredA
         <>
             {hideDivider !== true && <hr style={{ marginTop: 2, marginBottom: 2 }} />}
 
-            <div style={{ display: "flex", justifyContent: "center", ...additionalStyle }}>
+            <div className="d-flex justify-content-center" style={{ ...additionalStyle }}>
                 <Button type={type} onClick={onClick}>{caption}</Button>
             </div>
         </>
